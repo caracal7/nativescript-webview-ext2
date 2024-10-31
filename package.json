@@ -1,0 +1,33 @@
+{
+  "name": "nativescript-webview-ext2",
+  "version": "1.0.0",
+  "description": "Extended WebView for NativeScript which adds 'x-local' scheme for local-files. events between WebView and native-layer, javascript execution, injecting CSS and JS-files.",
+  "main": "index",
+  "typings": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "ios": "6.0.0",
+      "android": "6.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caracal7/nativescript-webview-ext2.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "TypeScript",
+    "iOS",
+    "WebView",
+    "Android"
+  ],
+  "bugs": {
+    "url": "https://github.com/caracal7/nativescript-webview-ext2/issues"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/caracal7/nativescript-webview-ext2",
+  "readmeFilename": "README.md",
+  "bootstrapper": "@nativescript/plugin-seed",
+  "types": "./index.d.d.ts"
+}
